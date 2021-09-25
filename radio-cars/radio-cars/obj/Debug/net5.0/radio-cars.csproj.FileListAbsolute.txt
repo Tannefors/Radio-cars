@@ -1,0 +1,15 @@
+/Users/headlight/Desktop/HiQ Code Test/radio-cars/radio-cars/bin/Debug/net5.0/radio-cars.deps.json
+/Users/headlight/Desktop/HiQ Code Test/radio-cars/radio-cars/bin/Debug/net5.0/radio-cars.runtimeconfig.json
+/Users/headlight/Desktop/HiQ Code Test/radio-cars/radio-cars/bin/Debug/net5.0/radio-cars.runtimeconfig.dev.json
+/Users/headlight/Desktop/HiQ Code Test/radio-cars/radio-cars/bin/Debug/net5.0/radio-cars.dll
+/Users/headlight/Desktop/HiQ Code Test/radio-cars/radio-cars/bin/Debug/net5.0/ref/radio-cars.dll
+/Users/headlight/Desktop/HiQ Code Test/radio-cars/radio-cars/bin/Debug/net5.0/radio-cars.pdb
+/Users/headlight/Desktop/HiQ Code Test/radio-cars/radio-cars/obj/Debug/net5.0/radio-cars.csproj.AssemblyReference.cache
+/Users/headlight/Desktop/HiQ Code Test/radio-cars/radio-cars/obj/Debug/net5.0/radio-cars.GeneratedMSBuildEditorConfig.editorconfig
+/Users/headlight/Desktop/HiQ Code Test/radio-cars/radio-cars/obj/Debug/net5.0/radio-cars.AssemblyInfoInputs.cache
+/Users/headlight/Desktop/HiQ Code Test/radio-cars/radio-cars/obj/Debug/net5.0/radio-cars.AssemblyInfo.cs
+/Users/headlight/Desktop/HiQ Code Test/radio-cars/radio-cars/obj/Debug/net5.0/radio-cars.csproj.CoreCompileInputs.cache
+/Users/headlight/Desktop/HiQ Code Test/radio-cars/radio-cars/obj/Debug/net5.0/radio-cars.dll
+/Users/headlight/Desktop/HiQ Code Test/radio-cars/radio-cars/obj/Debug/net5.0/ref/radio-cars.dll
+/Users/headlight/Desktop/HiQ Code Test/radio-cars/radio-cars/obj/Debug/net5.0/radio-cars.pdb
+/Users/headlight/Desktop/HiQ Code Test/radio-cars/radio-cars/obj/Debug/net5.0/radio-cars.genruntimeconfig.cache
